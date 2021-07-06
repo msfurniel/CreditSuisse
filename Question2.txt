@@ -1,0 +1,1 @@
+It would include a new boolean-type method called IsPoliticallyExposed
